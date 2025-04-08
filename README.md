@@ -18,7 +18,7 @@
 | Project                                    | Tech Stack                        |  Demo                                            |
 |--------------------------------------------|-----------------------------------|--------------------------------------------------|
 | **Plant Disease Classification**           | PyTorch, Transformers, Colab      | <img src="https://community.libretranslate.com/uploads/default/original/1X/a98c2fea0f6ec8314153dfbe0c1583c69ca3d4e2.gif" width="450"/> |
-| **Swarm Drone Coordination**               | PX4, MAVSDK, ROS, Python          | <img src="https://images.app.goo.gl/4QSr7dv8yXReYguz6" width="450"/> |
+| **Swarm Drone Coordination**               | PX4, MAVSDK, ROS, Python          | <img src="![Social Media Broadcast](https://meshmerize.net/wp-content/uploads/2024/05/social-media-broadcast-1-1.gif)"/> |
 | **PLC Monitoring & Motion Control**        | C/C++, Qt, Modbus-TCP             | <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="450"/> |
 
 ---
