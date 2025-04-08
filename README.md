@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 Computer Engineering Student @ Marmara University<br>
-  🤖 Building cool stuff with AI, Embedded Systems, and Drones<br>
+  🤖 3rd Year Computer Engineering Student | AI Enthusiast | Software Developer<br>
   📍 Based in Istanbul, Turkey
 </p>
 
