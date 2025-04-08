@@ -15,10 +15,10 @@
 
 ## 🚀 Featured Projects
 
-| Project                                    | Tech Stack                        | GIF / Demo                                       |
+| Project                                    | Tech Stack                        |  Demo                                            |
 |--------------------------------------------|-----------------------------------|--------------------------------------------------|
-| **Plant Disease Classification**           | PyTorch, Transformers, Colab      | <img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="150"/> |
-| **Swarm Drone Coordination**               | PX4, MAVSDK, ROS, Python          | <img src="https://media.giphy.com/media/dU5JxKz3iNo6zZihgy/giphy.gif" width="150"/> |
+| **Plant Disease Classification**           | PyTorch, Transformers, Colab      | <img src="https://community.libretranslate.com/uploads/default/original/1X/a98c2fea0f6ec8314153dfbe0c1583c69ca3d4e2.gif" width="150"/> |
+| **Swarm Drone Coordination**               | PX4, MAVSDK, ROS, Python          | <img src="https://www.htx.gov.sg/images/default-source/interactive-story/swarm-drone.gif?sfvrsn=27935786_1" width="150"/> |
 | **PLC Monitoring & Motion Control**        | C++, Qt, Modbus-like Protocol     | <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150"/> |
 
 ---
