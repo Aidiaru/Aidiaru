@@ -25,9 +25,9 @@ I am passionate about software engineering and artificial intelligence. My exper
 
 
 
-### 🚀 Projects
+## 🚀 Projects
 
-#### 🌿 Plant Disease Classification  
+### 🌿 Plant Disease Classification  
 > **Tech:** PyTorch, Transformers, Vision, Data Augmentation, Google Colab  
 A deep learning project for classifying plant diseases using vision transformer architectures. Compared multiple models on Kaggle's Plant Dataset with accuracy improvements via augmentation and attention tuning.  
 - 📊 Achieved **~97% classification accuracy**  
@@ -38,7 +38,7 @@ A deep learning project for classifying plant diseases using vision transformer 
 
 
 
-#### 🛰️ TAURUS Swarm Drones – Teknofest 2025  
+### 🛰️ TAURUS Swarm Drones – Teknofest 2025  
 > **Tech:** PX4, MAVSDK, C++, Python, QGroundControl, ROS  
 Working on a collaborative autonomous drone swarm for search and exploration tasks. Our goal is to compete in the **Teknofest 2025 Swarm UAV Contest**.  
 - 🧠 Developed autonomous path planning and obstacle avoidance  
@@ -49,7 +49,7 @@ Working on a collaborative autonomous drone swarm for search and exploration tas
 
 
 
-#### 🧾 Qt-based PLC Monitoring System  
+### 🧾 Qt-based PLC Monitoring System  
 > **Tech:** Qt (Widgets), C++, Serial Communication, Protocol Design  
 Designed a desktop GUI application to interact with PLCs on the Network. Parses incoming Modbus-TCP protocol and renders real-time data graphs.  
 - 📈 Dynamic charting of industrial signals  
