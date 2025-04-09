@@ -6,19 +6,55 @@
 
 ---
 
+---
+
+### 💼 About Me
+
+I am passionate about software engineering and artificial intelligence. My experience includes developing embedded systems in an R&D environment and working on machine learning projects.
+
+## 🎯 Fun Facts & Hobbies
+- 🎮 **Gamer at Heart:** Overwatch & Dead by Daylight fan  
+- 📚 **Fantasy Enthusiast:** Lost in epic realms and magic tales  
+- ☕ **Coffee Lover:** Always experimenting with coffee
+
+---
+
 ## 🔭 Current Focus
 - **Teknofest 2025**: Swarm UAV Contest  
 - **Plant Disease Classifier**: Research on Artifical Neural Networks  
 
 ---
 
-## 🚀 Featured Projects
+---
 
-| Project                                    | Tech Stack                        |  Demo                                            |
-|--------------------------------------------|-----------------------------------|--------------------------------------------------|
-| **Plant Disease Classification**           | PyTorch, Transformers, Colab      | <img src="https://community.libretranslate.com/uploads/default/original/1X/a98c2fea0f6ec8314153dfbe0c1583c69ca3d4e2.gif" width="450"/> |
-| **Swarm Drone Coordination**               | PX4, MAVSDK, ROS, Python, C++     | <img src="https://www.roboticgizmos.com/wp-content/uploads/2017/09/14/VIO-Swarm.gif" width="450"/> |
-| **Monitoring PLC on Network**              | C/C++, Qt, Modbus-TCP             | <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="450"/> |
+### 🚀 Projects
+
+#### 🌿 Plant Disease Classification  
+> **Tech:** PyTorch, Transformers, Vision, Data Augmentation, Google Colab  
+A deep learning project for classifying plant diseases using vision transformer architectures. Compared multiple models on Kaggle's Plant Dataset with accuracy improvements via augmentation and attention tuning.  
+- 📊 Achieved **~97% classification accuracy**  
+- 🧪 Evaluated different transformer models: ViT, Swin Transformer, DeiT  
+- 📰 Will be submitted to *Marmara JEPS Journal (2025)*  
+<img src="https://community.libretranslate.com/uploads/default/original/1X/a98c2fea0f6ec8314153dfbe0c1583c69ca3d4e2.gif" width="450"/>
+---
+
+#### 🛰️ TAURUS Swarm Drones – Teknofest 2025  
+> **Tech:** PX4, MAVSDK, C++, Python, QGroundControl, ROS  
+Working on a collaborative autonomous drone swarm for search and exploration tasks. Our goal is to compete in the **Teknofest 2025 Swarm UAV Contest**.  
+- 🧠 Developed autonomous path planning and obstacle avoidance  
+- 📡 Enabled real-time telemetry over MAVLink  
+- 🛰️ Implemented multi-agent coordination protocols  
+<img src="https://www.roboticgizmos.com/wp-content/uploads/2017/09/14/VIO-Swarm.gif" width="450"/>
+
+---
+
+#### 🧾 Qt-based PLC Monitoring System  
+> **Tech:** Qt (Widgets), C++, Serial Communication, Protocol Design  
+Designed a desktop GUI application to interact with PLCs on the Network. Parses incoming Modbus-TCP protocol and renders real-time data graphs.  
+- 📈 Dynamic charting of industrial signals  
+- 🧩 Created a lightweight, responsive Qt frontend  
+- 💾 Data logging and serial parsing with error handling  
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="450"/>
 
 ---
 
