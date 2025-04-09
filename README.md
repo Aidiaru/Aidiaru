@@ -7,9 +7,8 @@
 ---
 
 ## 🔭 Current Focus
-- **Teknofest 2025**: TAURUS Swarm Drone Contest  
-- **Plant Disease Classifier**: Vision Transformers & Augmentation  
-- **Embedded Automation**: PLC & Qt GUI development
+- **Teknofest 2025**: Swarm UAV Contest  
+- **Plant Disease Classifier**: Research on Artifical Neural Networks  
 
 ---
 
