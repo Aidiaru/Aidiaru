@@ -6,8 +6,6 @@
 
 ---
 
----
-
 ### 💼 About Me
 
 I am passionate about software engineering and artificial intelligence. My experience includes developing embedded systems in an R&D environment and working on machine learning projects.
@@ -25,8 +23,6 @@ I am passionate about software engineering and artificial intelligence. My exper
 
 ---
 
----
-
 ### 🚀 Projects
 
 #### 🌿 Plant Disease Classification  
@@ -36,6 +32,7 @@ A deep learning project for classifying plant diseases using vision transformer 
 - 🧪 Evaluated different transformer models: ViT, Swin Transformer, DeiT  
 - 📰 Will be submitted to *Marmara JEPS Journal (2025)*  
 <img src="https://community.libretranslate.com/uploads/default/original/1X/a98c2fea0f6ec8314153dfbe0c1583c69ca3d4e2.gif" width="450"/>
+
 ---
 
 #### 🛰️ TAURUS Swarm Drones – Teknofest 2025  
