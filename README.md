@@ -17,9 +17,11 @@ I am passionate about software engineering and artificial intelligence. My exper
 
 
 
+
 ## 🔭 Current Focus
 - **Teknofest 2025**: Swarm UAV Contest  
 - **Plant Disease Classifier**: Research on Artifical Neural Networks  
+
 
 
 
@@ -35,6 +37,7 @@ A deep learning project for classifying plant diseases using vision transformer 
 
 
 
+
 #### 🛰️ TAURUS Swarm Drones – Teknofest 2025  
 > **Tech:** PX4, MAVSDK, C++, Python, QGroundControl, ROS  
 Working on a collaborative autonomous drone swarm for search and exploration tasks. Our goal is to compete in the **Teknofest 2025 Swarm UAV Contest**.  
@@ -42,6 +45,7 @@ Working on a collaborative autonomous drone swarm for search and exploration tas
 - 📡 Enabled real-time telemetry over MAVLink  
 - 🛰️ Implemented multi-agent coordination protocols  
 <img src="https://www.roboticgizmos.com/wp-content/uploads/2017/09/14/VIO-Swarm.gif" width="450"/>
+
 
 
 
@@ -55,14 +59,17 @@ Designed a desktop GUI application to interact with PLCs on the Network. Parses 
 
 
 
+
 ## 🧰 Tech & Tools
 `Python` `Java` `C` `C++` `C#` `SQL` `Qt` `PyTorch` `Tensorflow` 
+
 
 
 
 ## 📫 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orçun-samet-tatar-632699246)  
 ✉️ orcunsamettatar@gmail.com • 
+
 
 
 
