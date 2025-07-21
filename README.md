@@ -11,17 +11,9 @@
 I am passionate about software engineering and artificial intelligence. My experience includes developing embedded systems in an R&D environment and working on machine learning projects.
 
 ## 🎯 Fun Facts & Hobbies
-- 🎮 **Gamer at Heart:** Overwatch & Dead by Daylight fan  
+- 🎮 **Gamer at Heart:** Minecraft, Overwatch & Dead by Daylight fan  
 - 📚 **Fantasy Enthusiast:** Lost in epic realms and magic tales  
 - ☕ **Coffee Lover:** Always experimenting with coffee
-
-
-
-
-## 🔭 Current Focus
-- **Teknofest 2025**: Swarm UAV Contest  
-- **Plant Disease Classifier**: Research on Artifical Neural Networks  
-
 
 
 
@@ -37,18 +29,6 @@ A deep learning project for classifying plant diseases using vision transformer 
 
 
 
-
-### 🛰️ TAURUS Swarm Drones – Teknofest 2025  
-> **Tech:** PX4, MAVSDK, C++, Python, QGroundControl, ROS  
-Working on a collaborative autonomous drone swarm for search and exploration tasks. Our goal is to compete in the **Teknofest 2025 Swarm UAV Contest**.  
-- 🧠 Developed autonomous path planning and obstacle avoidance  
-- 📡 Enabled real-time telemetry over MAVLink  
-- 🛰️ Implemented multi-agent coordination protocols  
-<img src="https://www.roboticgizmos.com/wp-content/uploads/2017/09/14/VIO-Swarm.gif" width="450"/>
-
-
-
-
 ### 🧾 Qt-based PLC Monitoring System  
 > **Tech:** Qt (Widgets), C++, Serial Communication, Protocol Design  
 Designed a desktop GUI application to interact with PLCs on the Network. Parses incoming Modbus-TCP protocol and renders real-time data graphs.  
@@ -59,18 +39,13 @@ Designed a desktop GUI application to interact with PLCs on the Network. Parses 
 
 
 
-
 ## 🧰 Tech & Tools
 `Python` `Java` `C` `C++` `C#` `SQL` `Qt` `PyTorch` `Tensorflow` 
-
-
 
 
 ## 📫 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orçun-samet-tatar-632699246)  
 ✉️ orcunsamettatar@gmail.com • 
-
-
 
 
 <p align="center">
