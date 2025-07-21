@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey, I'm Orçun</h1>
 <p align="center">
-  🎓 Computer Engineering @ Marmara University • 🤖 AI & Software Development • 🛰️ Swarm Drones  
+  🎓 Computer Engineering @ Marmara University • 🤖 AI & Software Development 
   📍 Kartal, Istanbul • 📫 orcunsamettatar@gmail.com
 </p>
 
